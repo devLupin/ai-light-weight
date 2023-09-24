@@ -1,3 +1,10 @@
+edgevit_models
+pascal-voc-data
+data
+*.pt
+*.pth
+*.onnx
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
