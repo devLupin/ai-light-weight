@@ -1,9 +1,13 @@
 edgevit_models
 pascal-voc-data
 data
+.vscode
+
 *.pt
 *.pth
 *.onnx
+*.trt
+*.txt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
