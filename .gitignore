@@ -7,7 +7,6 @@ data
 *.pth
 *.onnx
 *.trt
-*.txt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
